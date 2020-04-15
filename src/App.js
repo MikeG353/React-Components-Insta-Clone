@@ -17,11 +17,9 @@ const App = () => {
   return (
     <div className="App">
       {/* Add imported components here to render them */}
-
-      {/* What does the search bar need? */}
+ 
       <SearchBar />
 
-      {/* What does the Post page need? */}
       <PostsPage  />
 
       

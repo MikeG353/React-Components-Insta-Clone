@@ -8,6 +8,7 @@ import postData from '../../dummy-data';
 
 const PostsPage = () => {
   // set up state for your data
+  
   const [postList, setPostList] = useState(postData)
   return (
     <div className="posts-container-wrapper">
